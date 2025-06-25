@@ -6,3 +6,4 @@ plotly
 ta
 pandas_ta
 mplfinance
+setuptools
