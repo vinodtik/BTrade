@@ -3,3 +3,4 @@ streamlit
 yfinance
 nsepython
 plotly
+ta
