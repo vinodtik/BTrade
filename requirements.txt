@@ -6,4 +6,3 @@ plotly
 ta
 pandas_ta
 mplfinance
-pkg_resources
