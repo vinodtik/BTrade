@@ -4,6 +4,9 @@ import os
 
 st.set_page_config(page_title="BalzAnalysis", layout="wide")
 
+# --- python version ---
+print(f"Running on python {sys.version}")
+
 # --- Login Page ---
 if 'logged_in' not in st.session_state:
     st.session_state['logged_in'] = False
