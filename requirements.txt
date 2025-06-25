@@ -4,3 +4,4 @@ yfinance
 nsepython
 plotly
 ta
+pandas_ta
