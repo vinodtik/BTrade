@@ -7,3 +7,4 @@ ta
 pandas_ta
 mplfinance
 setuptools
+numpy==1.26.*
